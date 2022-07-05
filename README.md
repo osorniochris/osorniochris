@@ -10,11 +10,10 @@ My name is Christopher Osornio, but everyone calls me Chris. I'm a mexican compu
 
 ## 🐱‍👤 About me
 
-- 🔭 I’m currently working at Santander Mexico as a backend developer
+- 🔭 I’m currently working at Oracle as Software Developer
 - 🌱 I’m currently improving and mastering my backend development skills with NodeJs and Spring Boot
 - 📗 I enjoy learning about system design and algorithms
-- 🚀 I take part in [LaunchX](https://github.com/LaunchX-InnovaccionVirtual) program (a bootcamp offered by Microsoft Mexico to be a full stack developer)
-- ⚡ Fun fact: I'm learning italian language and I have a 681 days strike in Duolingo
+- ⚡ Fun fact: I'm learning italian language and I have a 763 days strike in Duolingo
 
 ## ⭐ Favorite Tech 
 > Technologies I've used before and liked them
