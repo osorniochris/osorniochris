@@ -28,9 +28,6 @@ My name is Christopher Osornio, but everyone calls me Chris. I'm a mexican compu
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-blue-nine.vercel.app/api/top-langs/?username=osorniochris&hide=css,html&theme=onedark&layout=compact)](https://github.com/osorniochris/github-readme-stats)
-
-![Christopher's GitHub stats](https://github-readme-stats-blue-nine.vercel.app/api?username=osorniochris&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
 
 
 
